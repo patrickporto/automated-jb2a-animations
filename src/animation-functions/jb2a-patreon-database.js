@@ -77,6 +77,11 @@ JB2APATREONDB.eldritchblast = {
         '30': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Dark_Red_30ft_1600x400.webm',
         '60': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Dark_Red_60ft_2800x400.webm',
         '90': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Dark_Red_90ft_4000x400.webm'
+    },
+    'orange': {
+        '30': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Regular_Orange_30ft_1600x400.webm',
+        '60': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Regular_Orange_60ft_2800x400.webm',
+        '90': 'modules/jb2a_patreon/Library/Cantrip/Eldritch_Blast/EldritchBlast_01_Regular_Orange_90ft_4000x400.webm'
     }
 }
 

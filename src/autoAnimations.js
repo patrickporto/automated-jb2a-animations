@@ -24,6 +24,7 @@ import castOnSelf from "./animation-functions/shield.js";
 import selfCast from "./animation-functions/emanations.js";
 import ctaCall from "./animation-functions/CTAcall.js";
 import huntersMark from "./animation-functions/hunters-mark.js";
+import mistyStep from "./animation-functions/mistystep.js";
 
 import ImagePicker from "./ImagePicker.js";
 
@@ -421,6 +422,9 @@ async function revItUp(handler) {
             if (game.modules.get("Custom-Token-Animations")?.active) {
                 ctaCall(handler);
             }
+            break;
+        case (handler.itemNameIncludes("misty step")):
+            mistyStep(handler);
             break;
         case handler.itemNameIncludes("rapier"):
         case handler.itemNameIncludes(game.i18n.format("AUTOANIM.itemRapier").toLowerCase()):

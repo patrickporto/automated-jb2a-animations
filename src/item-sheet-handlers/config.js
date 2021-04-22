@@ -173,6 +173,7 @@ AUTOANIM.animColorEBlast = {
     "green": "AUTOANIM.colorGreen",
     "yellow": "AUTOANIM.colorYellow",
     "dark red": "AUTOANIM.colorDarkRed",
+    "orange": "AUTOANIM.colorOrange",
 }
 
 AUTOANIM.animColorEBlastFree = {
